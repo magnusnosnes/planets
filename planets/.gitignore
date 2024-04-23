@@ -1,2 +1,4 @@
+I have added a gitignore file. THis file will exclude anything ending in .csv and anything in the results directory.
+
 *.csv
 res*
